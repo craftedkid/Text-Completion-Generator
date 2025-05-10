@@ -131,8 +131,6 @@ Files in this repository include:
     -  `result.html` - an HTML File containing the result view of the text generator model
 
 
-## 5. CI/CD Automation Files
-
 
   ### 5(a). Makefile
   The `Makefile` contains instructions for installing packages (specified in `requirements.txt`), formatting the code (using black formatting), testing the code (running all the sample python code files starting with the term *'Check...'* ), and linting the code using pylint
