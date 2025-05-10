@@ -87,6 +87,7 @@ Example Output:
 > "The future of AI is rapidly evolving with transformative potential in every sector."
 
 ---
+![Screenshot 2025-05-10 144723](https://github.com/user-attachments/assets/2e4d9875-b564-465e-8df2-343b9e400a8d)
 
 ## ⚙️ DevOps and CI/CD
 
